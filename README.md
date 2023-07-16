@@ -1,3 +1,3 @@
-# plugin-local-database
+# Bellows Local Database Plugin
 
-[https://bellows.dev](https://bellows.dev)
+[https://bellows.dev/docs/plugins/local-database](https://bellows.dev/docs/plugins/local-database)
